@@ -60,13 +60,15 @@
 <br />
 
 ### 🌸 Backend
-|역할|종류|
-|-|-|
-|Framework|<img alt="RED" src ="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> |
-|Database|<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|
-|AWS|<img alt="RED" src ="https://img.shields.io/badge/amazonec2-FF9900.svg?&style=for-the-badge&logo=AmazonRds&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=for-the-badge&logo=AmazonS3&logoColor=white"/>|
-|Programming Language|<img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">|                            
-|Version Control|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+
+![Frame_1](https://github.com/user-attachments/assets/e1c1590e-0754-42e8-9d2a-2131d03eb9ed)
+
+
+### ⚙️ 백엔드 아키텍쳐
+
+![8651ee24b12086a0](https://github.com/user-attachments/assets/ca9e66c0-519f-4bfb-b759-d8dc3ab4b448)
+
+
 <br />
 
 
